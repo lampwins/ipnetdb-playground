@@ -1,0 +1,23 @@
+{
+    "allocation": "1.0.4.0/22",
+    "allocation_cc": "AU",
+    "allocation_registry": "apnic",
+    "allocation_status": "allocated",
+    "as": 38803,
+    "as_cc": "AU",
+    "as_entity": "Wirefreebroadband Pty Ltd",
+    "as_name": "WPL-AS-AP",
+    "as_private": false,
+    "as_registry": "apnic",
+    "prefix": "1.0.4.0/22",
+    "prefix_asset": [],
+    "prefix_assignment": "allocated portable",
+    "prefix_bogon": false,
+    "prefix_entity": "Wirefreebroadband Pty Ltd",
+    "prefix_name": "WPL-AU",
+    "prefix_origins": [
+        38803
+    ],
+    "prefix_registry": "apnic",
+    "rpki_status": "valid"
+}
